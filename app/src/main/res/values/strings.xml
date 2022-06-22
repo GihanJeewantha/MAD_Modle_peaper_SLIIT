@@ -5,4 +5,6 @@
     <string name="et1">name</string>
     <string name="tv3">PASSWORD</string>
     <string name="et2">password</string>
+    <string name="buttoon1">LogIN</string>
+    <string name="button2">Register</string>
 </resources>
