@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MAD peaper SLIIT</string>
+    <string name="tv1">HOME</string>
+    <string name="tv2">NAME</string>
+    <string name="et1">name</string>
+    <string name="tv3">PASSWORD</string>
+    <string name="et2">password</string>
 </resources>
