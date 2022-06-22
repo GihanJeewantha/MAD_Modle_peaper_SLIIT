@@ -7,4 +7,12 @@
     <string name="et2">password</string>
     <string name="buttoon1">LogIN</string>
     <string name="button2">Register</string>
+    <string name="textview1">name</string>
+    <string name="et3">name</string>
+    <string name="textview2">password</string>
+    <string name="et4">password</string>
+    <string name="textview3">Gender</string>
+    <string name="rbutton1">MALE</string>
+    <string name="rbutton2">FEMALE</string>
+    <string name="button5">Submit</string>
 </resources>
